@@ -31,10 +31,10 @@ export default function HeaderSection({ mainMenu }) {
                             <nav className="navbar navbar-expand-lg">
                                 <a className="navbar-brand" href="https://buttercms.com">
                                     <Image
-                                        src="https://cdn.buttercms.com/PBral0NQGmmFzV0uG7Q6"
+                                        src="/images/logo-navbar.png"
                                         alt="Logo"
-                                        width={180}
-                                        height={45}
+                                        width={40}
+                                        height={10}
                                         style={{
                                             maxWidth: "100%",
                                             height: "auto"

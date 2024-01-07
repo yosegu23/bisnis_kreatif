@@ -17,7 +17,7 @@ export default function FooterSection({ mainMenu }) {
                                     <Image
                                         width={200}
                                         height={50}
-                                        src="https://cdn.buttercms.com/PBral0NQGmmFzV0uG7Q6"
+                                        src="/images/bisnis-kreatif.jpeg"
                                         alt="logo"
                                         style={{
                                             maxWidth: "100%",
@@ -25,7 +25,7 @@ export default function FooterSection({ mainMenu }) {
                                         }} />
                                 </a>
                             </div>
-                            <p className="desc">ButterCMS is your content backend. Build better with Butter.</p>
+                            <p className="desc">PT Bisnis Kreatif.</p>
                             <ul className="social-links">
                                 <li><a href="#0"><i className="lni lni-facebook"></i></a></li>
                                 <li><a href="#0"><i className="lni lni-linkedin"></i></a></li>

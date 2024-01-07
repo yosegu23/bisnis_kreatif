@@ -38,7 +38,6 @@ export default function LandingPage({ page, blogPosts }) {
           sectionData={sectionData}
         />
       )}
-      <Blog posts={blogPosts} />
     </>
   )
 }
